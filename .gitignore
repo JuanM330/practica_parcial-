@@ -1,0 +1,30 @@
+# === Archivos de compilación ===
+/build/
+/dist/
+/out/
+/target/
+
+# === Archivos de configuración del IDE ===
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# === Archivos generados automáticamente ===
+*.class
+*.log
+*.tmp
+*.bak
+
+# === Archivos de sistema ===
+.DS_Store
+Thumbs.db
+
+# === Librerías externas descargadas ===
+lib/*.jar
+
+# === Archivos de prueba locales ===
+test-output/
+
